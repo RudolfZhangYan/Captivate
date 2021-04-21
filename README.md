@@ -1,1 +1,2 @@
+[![Board Status](https://v-rudzha.visualstudio.com/dc19dde6-b23e-450c-ae70-056ed25730aa/284523c2-a948-41dd-9433-f23c59681115/_apis/work/boardbadge/86a75248-05c4-411b-bc69-b225e3987946)](https://v-rudzha.visualstudio.com/dc19dde6-b23e-450c-ae70-056ed25730aa/_boards/board/t/284523c2-a948-41dd-9433-f23c59681115/Custom.91b35a98-1493-4cb3-8ee8-c39318ec2a0f)
 # Captivate
